@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/charith43" target="blank"><img src="https://img.shields.io/twitter/follow/charith43?logo=twitter&style=for-the-badge" alt="charith43" /></a> </p>
 
-- 🔭 I’m currently working on **Gym Management System**
+- 🔭 I’m currently working on ** a Gym Management System**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Dart languge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
