@@ -1,8 +1,7 @@
 ![MasterHead](https://triare.net/wp-content/uploads/2020/12/TRIARE.-banner.png)
 <h1 align="center">Hi 👋, I'm Charith Lakshan</h1>
 <h3 align="center">A deverloper who like to learn new technology</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/static/optimized/rev-0c643c8/wp-content/uploads/2022/02/Backend-Developer-NodeJS.gif">
-<br> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithx&label=Profile%20views&color=0e75b6&style=flat" alt="charithx" /> </p>
 
